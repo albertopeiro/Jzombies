@@ -51,7 +51,7 @@ public void step(){
 			pt, human.class,1,1);
 	
 	
-	/* Esto es para criear un listado de gridCells conteniendo humanos
+	/* Esto es para crear un listado de gridCells conteniendo humanos
 	 Lllamamos al metodo getNeighborhood, que con true devuelve 
 	 la ubicación del zombie dentro del listado de celdas vecinas (8+1)*/
 	
